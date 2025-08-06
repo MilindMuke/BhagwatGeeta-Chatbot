@@ -1,0 +1,389 @@
+[
+  {
+    "keyword": "Karma",
+    "definition": "Karma is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Karma in their daily lives.",
+    "behavior": "Practice Karma through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Karma with integrity, compassion, and righteousness.",
+    "spiritual_context": "Karma contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Karma."
+  },
+  {
+    "keyword": "Dharma",
+    "definition": "Dharma means one's righteous duty based on their nature and role in life. It is a core teaching of the Bhagavad Gita.",
+    "intent": "To guide individuals to act with integrity, truth, and responsibility, and to follow their own unique path.",
+    "behavior": "Practice dharma by making choices that align with your true self and by fulfilling your responsibilities sincerely.",
+    "ethical_guidance": "The Gita teaches that performing your own dharma, even imperfectly, is better than imitating another's perfectly.",
+    "spiritual_context": "Dharma aligns personal actions with cosmic order and supports spiritual growth.",
+    "example_from_gita": "'Better to fail in your own dharma than succeed in another’s.' (Gita 3.35, paraphrased)"
+  },
+  {
+    "keyword": "Detachment",
+    "definition": "Detachment is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Detachment in their daily lives.",
+    "behavior": "Practice Detachment through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Detachment with integrity, compassion, and righteousness.",
+    "spiritual_context": "Detachment contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Detachment."
+  },
+  {
+    "keyword": "Fear",
+    "definition": "Fear is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Fear in their daily lives.",
+    "behavior": "Practice Fear through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Fear with integrity, compassion, and righteousness.",
+    "spiritual_context": "Fear contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Fear."
+  },
+  {
+    "keyword": "Anger",
+    "definition": "Anger is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Anger in their daily lives.",
+    "behavior": "Practice Anger through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Anger with integrity, compassion, and righteousness.",
+    "spiritual_context": "Anger contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Anger."
+  },
+  {
+    "keyword": "Grief",
+    "definition": "Grief is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Grief in their daily lives.",
+    "behavior": "Practice Grief through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Grief with integrity, compassion, and righteousness.",
+    "spiritual_context": "Grief contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Grief."
+  },
+  {
+    "keyword": "Success",
+    "definition": "Success is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Success in their daily lives.",
+    "behavior": "Practice Success through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Success with integrity, compassion, and righteousness.",
+    "spiritual_context": "Success contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Success."
+  },
+  {
+    "keyword": "Failure",
+    "definition": "Failure is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Failure in their daily lives.",
+    "behavior": "Practice Failure through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Failure with integrity, compassion, and righteousness.",
+    "spiritual_context": "Failure contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Failure."
+  },
+  {
+    "keyword": "Duty",
+    "definition": "Duty is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Duty in their daily lives.",
+    "behavior": "Practice Duty through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Duty with integrity, compassion, and righteousness.",
+    "spiritual_context": "Duty contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Duty."
+  },
+  {
+    "keyword": "Forgiveness",
+    "definition": "Forgiveness is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Forgiveness in their daily lives.",
+    "behavior": "Practice Forgiveness through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Forgiveness with integrity, compassion, and righteousness.",
+    "spiritual_context": "Forgiveness contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Forgiveness."
+  },
+  {
+    "keyword": "Love",
+    "definition": "Love is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Love in their daily lives.",
+    "behavior": "Practice Love through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Love with integrity, compassion, and righteousness.",
+    "spiritual_context": "Love contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Love."
+  },
+  {
+    "keyword": "Self-realization",
+    "definition": "Self-realization is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Self-realization in their daily lives.",
+    "behavior": "Practice Self-realization through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Self-realization with integrity, compassion, and righteousness.",
+    "spiritual_context": "Self-realization contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Self-realization."
+  },
+  {
+    "keyword": "Purpose",
+    "definition": "Purpose is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Purpose in their daily lives.",
+    "behavior": "Practice Purpose through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Purpose with integrity, compassion, and righteousness.",
+    "spiritual_context": "Purpose contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Purpose."
+  },
+  {
+    "keyword": "Destiny",
+    "definition": "Destiny is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Destiny in their daily lives.",
+    "behavior": "Practice Destiny through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Destiny with integrity, compassion, and righteousness.",
+    "spiritual_context": "Destiny contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Destiny."
+  },
+  {
+    "keyword": "Suffering",
+    "definition": "Suffering is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Suffering in their daily lives.",
+    "behavior": "Practice Suffering through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Suffering with integrity, compassion, and righteousness.",
+    "spiritual_context": "Suffering contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Suffering."
+  },
+  {
+    "keyword": "Happiness",
+    "definition": "Happiness is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Happiness in their daily lives.",
+    "behavior": "Practice Happiness through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Happiness with integrity, compassion, and righteousness.",
+    "spiritual_context": "Happiness contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Happiness."
+  },
+  {
+    "keyword": "Peace",
+    "definition": "Peace is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Peace in their daily lives.",
+    "behavior": "Practice Peace through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Peace with integrity, compassion, and righteousness.",
+    "spiritual_context": "Peace contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Peace."
+  },
+  {
+    "keyword": "Renunciation",
+    "definition": "Renunciation is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Renunciation in their daily lives.",
+    "behavior": "Practice Renunciation through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Renunciation with integrity, compassion, and righteousness.",
+    "spiritual_context": "Renunciation contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Renunciation."
+  },
+  {
+    "keyword": "Desire",
+    "definition": "Desire is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Desire in their daily lives.",
+    "behavior": "Practice Desire through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Desire with integrity, compassion, and righteousness.",
+    "spiritual_context": "Desire contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Desire."
+  },
+  {
+    "keyword": "Ego",
+    "definition": "Ego is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Ego in their daily lives.",
+    "behavior": "Practice Ego through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Ego with integrity, compassion, and righteousness.",
+    "spiritual_context": "Ego contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Ego."
+  },
+  {
+    "keyword": "Compassion",
+    "definition": "Compassion is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Compassion in their daily lives.",
+    "behavior": "Practice Compassion through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Compassion with integrity, compassion, and righteousness.",
+    "spiritual_context": "Compassion contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Compassion."
+  },
+  {
+    "keyword": "Wisdom",
+    "definition": "Wisdom is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Wisdom in their daily lives.",
+    "behavior": "Practice Wisdom through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Wisdom with integrity, compassion, and righteousness.",
+    "spiritual_context": "Wisdom contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Wisdom."
+  },
+  {
+    "keyword": "Faith",
+    "definition": "Faith is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Faith in their daily lives.",
+    "behavior": "Practice Faith through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Faith with integrity, compassion, and righteousness.",
+    "spiritual_context": "Faith contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Faith."
+  },
+  {
+    "keyword": "Hope",
+    "definition": "Hope is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Hope in their daily lives.",
+    "behavior": "Practice Hope through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Hope with integrity, compassion, and righteousness.",
+    "spiritual_context": "Hope contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Hope."
+  },
+  {
+    "keyword": "Resilience",
+    "definition": "Resilience is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Resilience in their daily lives.",
+    "behavior": "Practice Resilience through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Resilience with integrity, compassion, and righteousness.",
+    "spiritual_context": "Resilience contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Resilience."
+  },
+  {
+    "keyword": "Patience",
+    "definition": "Patience is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Patience in their daily lives.",
+    "behavior": "Practice Patience through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Patience with integrity, compassion, and righteousness.",
+    "spiritual_context": "Patience contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Patience."
+  },
+  {
+    "keyword": "Humility",
+    "definition": "Humility is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Humility in their daily lives.",
+    "behavior": "Practice Humility through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Humility with integrity, compassion, and righteousness.",
+    "spiritual_context": "Humility contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Humility."
+  },
+  {
+    "keyword": "Service",
+    "definition": "Service is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Service in their daily lives.",
+    "behavior": "Practice Service through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Service with integrity, compassion, and righteousness.",
+    "spiritual_context": "Service contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Service."
+  },
+  {
+    "keyword": "Devotion",
+    "definition": "Devotion is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Devotion in their daily lives.",
+    "behavior": "Practice Devotion through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Devotion with integrity, compassion, and righteousness.",
+    "spiritual_context": "Devotion contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Devotion."
+  },
+  {
+    "keyword": "Liberation",
+    "definition": "Liberation is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Liberation in their daily lives.",
+    "behavior": "Practice Liberation through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Liberation with integrity, compassion, and righteousness.",
+    "spiritual_context": "Liberation contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Liberation."
+  },
+  {
+    "keyword": "Mindfulness",
+    "definition": "Mindfulness is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Mindfulness in their daily lives.",
+    "behavior": "Practice Mindfulness through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Mindfulness with integrity, compassion, and righteousness.",
+    "spiritual_context": "Mindfulness contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Mindfulness."
+  },
+  {
+    "keyword": "Self-control",
+    "definition": "Self-control is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Self-control in their daily lives.",
+    "behavior": "Practice Self-control through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Self-control with integrity, compassion, and righteousness.",
+    "spiritual_context": "Self-control contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Self-control."
+  },
+  {
+    "keyword": "Discipline",
+    "definition": "Discipline is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Discipline in their daily lives.",
+    "behavior": "Practice Discipline through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Discipline with integrity, compassion, and righteousness.",
+    "spiritual_context": "Discipline contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Discipline."
+  },
+  {
+    "keyword": "Contentment",
+    "definition": "Contentment is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Contentment in their daily lives.",
+    "behavior": "Practice Contentment through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Contentment with integrity, compassion, and righteousness.",
+    "spiritual_context": "Contentment contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Contentment."
+  },
+  {
+    "keyword": "Trust",
+    "definition": "Trust is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Trust in their daily lives.",
+    "behavior": "Practice Trust through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Trust with integrity, compassion, and righteousness.",
+    "spiritual_context": "Trust contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Trust."
+  },
+  {
+    "keyword": "Relationships",
+    "definition": "Relationships is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Relationships in their daily lives.",
+    "behavior": "Practice Relationships through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Relationships with integrity, compassion, and righteousness.",
+    "spiritual_context": "Relationships contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Relationships."
+  },
+  {
+    "keyword": "Leadership",
+    "definition": "Leadership is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Leadership in their daily lives.",
+    "behavior": "Practice Leadership through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Leadership with integrity, compassion, and righteousness.",
+    "spiritual_context": "Leadership contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Leadership."
+  },
+  {
+    "keyword": "Responsibility",
+    "definition": "Responsibility is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Responsibility in their daily lives.",
+    "behavior": "Practice Responsibility through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Responsibility with integrity, compassion, and righteousness.",
+    "spiritual_context": "Responsibility contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Responsibility."
+  },
+  {
+    "keyword": "Justice",
+    "definition": "Justice is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Justice in their daily lives.",
+    "behavior": "Practice Justice through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Justice with integrity, compassion, and righteousness.",
+    "spiritual_context": "Justice contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Justice."
+  },
+  {
+    "keyword": "Equality",
+    "definition": "Equality is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Equality in their daily lives.",
+    "behavior": "Practice Equality through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Equality with integrity, compassion, and righteousness.",
+    "spiritual_context": "Equality contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Equality."
+  },
+  {
+    "keyword": "Truth",
+    "definition": "Truth is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Truth in their daily lives.",
+    "behavior": "Practice Truth through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Truth with integrity, compassion, and righteousness.",
+    "spiritual_context": "Truth contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Truth."
+  },
+  {
+    "keyword": "Non-violence",
+    "definition": "Non-violence is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Non-violence in their daily lives.",
+    "behavior": "Practice Non-violence through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Non-violence with integrity, compassion, and righteousness.",
+    "spiritual_context": "Non-violence contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Non-violence."
+  },
+  {
+    "keyword": "Spiritual growth",
+    "definition": "Spiritual growth is a concept discussed in the Bhagavad Gita representing a key aspect of spiritual and ethical life.",
+    "intent": "To guide individuals in understanding and embodying the principle of Spiritual growth in their daily lives.",
+    "behavior": "Practice Spiritual growth through conscious actions, thoughts, and decisions aligned with spiritual wisdom.",
+    "ethical_guidance": "Uphold the values of Spiritual growth with integrity, compassion, and righteousness.",
+    "spiritual_context": "Spiritual growth contributes to one's spiritual evolution and connection with the divine.",
+    "example_from_gita": "Refer to relevant verses in the Bhagavad Gita that illustrate the essence of Spiritual growth."
+  }
+]

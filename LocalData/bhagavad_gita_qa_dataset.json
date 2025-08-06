@@ -1,0 +1,602 @@
+[
+  {
+    "question": "What is the essence of life according to the Bhagavad Gita?",
+    "answer": "The Bhagavad Gita teaches that the essence of life is to perform one's duty selflessly without attachment to the results. Life is a journey of spiritual growth, and true fulfillment comes from aligning with dharma and seeking union with the divine."
+  },
+  {
+    "question": "How should one deal with failure?",
+    "answer": "Failure should be accepted with equanimity. The Gita advises focusing on action, not the outcome. Success and failure are part of life, and maintaining inner peace regardless of results is the path to wisdom and liberation."
+  },
+  {
+    "question": "What is karma yoga?",
+    "answer": "Karma yoga is the path of selfless action. It involves performing one's duties without attachment to the fruits of actions. This practice purifies the mind and leads to spiritual liberation by reducing ego and desires."
+  },
+  {
+    "question": "How can one overcome fear?",
+    "answer": "Fear arises from attachment and ignorance. The Gita teaches that understanding the eternal nature of the soul and surrendering to the divine helps overcome fear. Faith, knowledge, and detachment are key to courage."
+  },
+  {
+    "question": "What is the role of meditation in spiritual growth?",
+    "answer": "Meditation is essential for controlling the mind and senses. The Gita emphasizes regular meditation to attain inner peace and divine connection. It helps in focusing the mind and realizing the self beyond the body."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about reincarnation?",
+    "answer": "The Bhagavad Gita teaches that reincarnation should be understood in the light of dharma and spiritual wisdom. One should approach reincarnation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master reincarnation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about liberation?",
+    "answer": "The Bhagavad Gita teaches that liberation should be understood in the light of dharma and spiritual wisdom. One should approach liberation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master liberation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about wisdom?",
+    "answer": "The Bhagavad Gita teaches that wisdom should be understood in the light of dharma and spiritual wisdom. One should approach wisdom with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master wisdom and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about devotion?",
+    "answer": "The Bhagavad Gita teaches that devotion should be understood in the light of dharma and spiritual wisdom. One should approach devotion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master devotion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about faith?",
+    "answer": "The Bhagavad Gita teaches that faith should be understood in the light of dharma and spiritual wisdom. One should approach faith with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master faith and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about truth?",
+    "answer": "The Bhagavad Gita teaches that truth should be understood in the light of dharma and spiritual wisdom. One should approach truth with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master truth and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about justice?",
+    "answer": "The Bhagavad Gita teaches that justice should be understood in the light of dharma and spiritual wisdom. One should approach justice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master justice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about compassion?",
+    "answer": "The Bhagavad Gita teaches that compassion should be understood in the light of dharma and spiritual wisdom. One should approach compassion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master compassion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about anger?",
+    "answer": "The Bhagavad Gita teaches that anger should be understood in the light of dharma and spiritual wisdom. One should approach anger with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master anger and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about greed?",
+    "answer": "The Bhagavad Gita teaches that greed should be understood in the light of dharma and spiritual wisdom. One should approach greed with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master greed and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about self-control?",
+    "answer": "The Bhagavad Gita teaches that self-control should be understood in the light of dharma and spiritual wisdom. One should approach self-control with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master self-control and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about discipline?",
+    "answer": "The Bhagavad Gita teaches that discipline should be understood in the light of dharma and spiritual wisdom. One should approach discipline with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master discipline and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about service?",
+    "answer": "The Bhagavad Gita teaches that service should be understood in the light of dharma and spiritual wisdom. One should approach service with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master service and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about leadership?",
+    "answer": "The Bhagavad Gita teaches that leadership should be understood in the light of dharma and spiritual wisdom. One should approach leadership with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master leadership and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about decision-making?",
+    "answer": "The Bhagavad Gita teaches that decision-making should be understood in the light of dharma and spiritual wisdom. One should approach decision-making with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master decision-making and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about relationships?",
+    "answer": "The Bhagavad Gita teaches that relationships should be understood in the light of dharma and spiritual wisdom. One should approach relationships with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master relationships and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about family?",
+    "answer": "The Bhagavad Gita teaches that family should be understood in the light of dharma and spiritual wisdom. One should approach family with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master family and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about society?",
+    "answer": "The Bhagavad Gita teaches that society should be understood in the light of dharma and spiritual wisdom. One should approach society with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master society and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about education?",
+    "answer": "The Bhagavad Gita teaches that education should be understood in the light of dharma and spiritual wisdom. One should approach education with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master education and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about work?",
+    "answer": "The Bhagavad Gita teaches that work should be understood in the light of dharma and spiritual wisdom. One should approach work with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master work and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about success?",
+    "answer": "The Bhagavad Gita teaches that success should be understood in the light of dharma and spiritual wisdom. One should approach success with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master success and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about failure?",
+    "answer": "The Bhagavad Gita teaches that failure should be understood in the light of dharma and spiritual wisdom. One should approach failure with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master failure and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about happiness?",
+    "answer": "The Bhagavad Gita teaches that happiness should be understood in the light of dharma and spiritual wisdom. One should approach happiness with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master happiness and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about sorrow?",
+    "answer": "The Bhagavad Gita teaches that sorrow should be understood in the light of dharma and spiritual wisdom. One should approach sorrow with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master sorrow and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about death?",
+    "answer": "The Bhagavad Gita teaches that death should be understood in the light of dharma and spiritual wisdom. One should approach death with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master death and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about life purpose?",
+    "answer": "The Bhagavad Gita teaches that life purpose should be understood in the light of dharma and spiritual wisdom. One should approach life purpose with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master life purpose and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about spiritual practice?",
+    "answer": "The Bhagavad Gita teaches that spiritual practice should be understood in the light of dharma and spiritual wisdom. One should approach spiritual practice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master spiritual practice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about yoga?",
+    "answer": "The Bhagavad Gita teaches that yoga should be understood in the light of dharma and spiritual wisdom. One should approach yoga with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master yoga and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about knowledge?",
+    "answer": "The Bhagavad Gita teaches that knowledge should be understood in the light of dharma and spiritual wisdom. One should approach knowledge with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master knowledge and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about action?",
+    "answer": "The Bhagavad Gita teaches that action should be understood in the light of dharma and spiritual wisdom. One should approach action with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master action and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about renunciation?",
+    "answer": "The Bhagavad Gita teaches that renunciation should be understood in the light of dharma and spiritual wisdom. One should approach renunciation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master renunciation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about mind?",
+    "answer": "The Bhagavad Gita teaches that mind should be understood in the light of dharma and spiritual wisdom. One should approach mind with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master mind and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about intellect?",
+    "answer": "The Bhagavad Gita teaches that intellect should be understood in the light of dharma and spiritual wisdom. One should approach intellect with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master intellect and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about nature?",
+    "answer": "The Bhagavad Gita teaches that nature should be understood in the light of dharma and spiritual wisdom. One should approach nature with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master nature and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about God?",
+    "answer": "The Bhagavad Gita teaches that God should be understood in the light of dharma and spiritual wisdom. One should approach God with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master God and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about creation?",
+    "answer": "The Bhagavad Gita teaches that creation should be understood in the light of dharma and spiritual wisdom. One should approach creation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master creation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about balance?",
+    "answer": "The Bhagavad Gita teaches that balance should be understood in the light of dharma and spiritual wisdom. One should approach balance with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master balance and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about peace?",
+    "answer": "The Bhagavad Gita teaches that peace should be understood in the light of dharma and spiritual wisdom. One should approach peace with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master peace and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about conflict?",
+    "answer": "The Bhagavad Gita teaches that conflict should be understood in the light of dharma and spiritual wisdom. One should approach conflict with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master conflict and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about duty?",
+    "answer": "The Bhagavad Gita teaches that duty should be understood in the light of dharma and spiritual wisdom. One should approach duty with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master duty and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about attachment?",
+    "answer": "The Bhagavad Gita teaches that attachment should be understood in the light of dharma and spiritual wisdom. One should approach attachment with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master attachment and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about ego?",
+    "answer": "The Bhagavad Gita teaches that ego should be understood in the light of dharma and spiritual wisdom. One should approach ego with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master ego and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about desire?",
+    "answer": "The Bhagavad Gita teaches that desire should be understood in the light of dharma and spiritual wisdom. One should approach desire with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master desire and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about soul?",
+    "answer": "The Bhagavad Gita teaches that soul should be understood in the light of dharma and spiritual wisdom. One should approach soul with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master soul and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about reincarnation?",
+    "answer": "The Bhagavad Gita teaches that reincarnation should be understood in the light of dharma and spiritual wisdom. One should approach reincarnation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master reincarnation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about liberation?",
+    "answer": "The Bhagavad Gita teaches that liberation should be understood in the light of dharma and spiritual wisdom. One should approach liberation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master liberation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about wisdom?",
+    "answer": "The Bhagavad Gita teaches that wisdom should be understood in the light of dharma and spiritual wisdom. One should approach wisdom with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master wisdom and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about devotion?",
+    "answer": "The Bhagavad Gita teaches that devotion should be understood in the light of dharma and spiritual wisdom. One should approach devotion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master devotion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about faith?",
+    "answer": "The Bhagavad Gita teaches that faith should be understood in the light of dharma and spiritual wisdom. One should approach faith with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master faith and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about truth?",
+    "answer": "The Bhagavad Gita teaches that truth should be understood in the light of dharma and spiritual wisdom. One should approach truth with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master truth and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about justice?",
+    "answer": "The Bhagavad Gita teaches that justice should be understood in the light of dharma and spiritual wisdom. One should approach justice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master justice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about compassion?",
+    "answer": "The Bhagavad Gita teaches that compassion should be understood in the light of dharma and spiritual wisdom. One should approach compassion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master compassion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about anger?",
+    "answer": "The Bhagavad Gita teaches that anger should be understood in the light of dharma and spiritual wisdom. One should approach anger with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master anger and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about greed?",
+    "answer": "The Bhagavad Gita teaches that greed should be understood in the light of dharma and spiritual wisdom. One should approach greed with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master greed and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about self-control?",
+    "answer": "The Bhagavad Gita teaches that self-control should be understood in the light of dharma and spiritual wisdom. One should approach self-control with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master self-control and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about discipline?",
+    "answer": "The Bhagavad Gita teaches that discipline should be understood in the light of dharma and spiritual wisdom. One should approach discipline with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master discipline and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about service?",
+    "answer": "The Bhagavad Gita teaches that service should be understood in the light of dharma and spiritual wisdom. One should approach service with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master service and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about leadership?",
+    "answer": "The Bhagavad Gita teaches that leadership should be understood in the light of dharma and spiritual wisdom. One should approach leadership with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master leadership and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about decision-making?",
+    "answer": "The Bhagavad Gita teaches that decision-making should be understood in the light of dharma and spiritual wisdom. One should approach decision-making with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master decision-making and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about relationships?",
+    "answer": "The Bhagavad Gita teaches that relationships should be understood in the light of dharma and spiritual wisdom. One should approach relationships with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master relationships and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about family?",
+    "answer": "The Bhagavad Gita teaches that family should be understood in the light of dharma and spiritual wisdom. One should approach family with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master family and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about society?",
+    "answer": "The Bhagavad Gita teaches that society should be understood in the light of dharma and spiritual wisdom. One should approach society with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master society and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about education?",
+    "answer": "The Bhagavad Gita teaches that education should be understood in the light of dharma and spiritual wisdom. One should approach education with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master education and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about work?",
+    "answer": "The Bhagavad Gita teaches that work should be understood in the light of dharma and spiritual wisdom. One should approach work with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master work and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about success?",
+    "answer": "The Bhagavad Gita teaches that success should be understood in the light of dharma and spiritual wisdom. One should approach success with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master success and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about failure?",
+    "answer": "The Bhagavad Gita teaches that failure should be understood in the light of dharma and spiritual wisdom. One should approach failure with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master failure and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about happiness?",
+    "answer": "The Bhagavad Gita teaches that happiness should be understood in the light of dharma and spiritual wisdom. One should approach happiness with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master happiness and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about sorrow?",
+    "answer": "The Bhagavad Gita teaches that sorrow should be understood in the light of dharma and spiritual wisdom. One should approach sorrow with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master sorrow and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about death?",
+    "answer": "The Bhagavad Gita teaches that death should be understood in the light of dharma and spiritual wisdom. One should approach death with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master death and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about life purpose?",
+    "answer": "The Bhagavad Gita teaches that life purpose should be understood in the light of dharma and spiritual wisdom. One should approach life purpose with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master life purpose and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about spiritual practice?",
+    "answer": "The Bhagavad Gita teaches that spiritual practice should be understood in the light of dharma and spiritual wisdom. One should approach spiritual practice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master spiritual practice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about yoga?",
+    "answer": "The Bhagavad Gita teaches that yoga should be understood in the light of dharma and spiritual wisdom. One should approach yoga with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master yoga and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about knowledge?",
+    "answer": "The Bhagavad Gita teaches that knowledge should be understood in the light of dharma and spiritual wisdom. One should approach knowledge with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master knowledge and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about action?",
+    "answer": "The Bhagavad Gita teaches that action should be understood in the light of dharma and spiritual wisdom. One should approach action with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master action and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about renunciation?",
+    "answer": "The Bhagavad Gita teaches that renunciation should be understood in the light of dharma and spiritual wisdom. One should approach renunciation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master renunciation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about mind?",
+    "answer": "The Bhagavad Gita teaches that mind should be understood in the light of dharma and spiritual wisdom. One should approach mind with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master mind and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about intellect?",
+    "answer": "The Bhagavad Gita teaches that intellect should be understood in the light of dharma and spiritual wisdom. One should approach intellect with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master intellect and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about nature?",
+    "answer": "The Bhagavad Gita teaches that nature should be understood in the light of dharma and spiritual wisdom. One should approach nature with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master nature and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about God?",
+    "answer": "The Bhagavad Gita teaches that God should be understood in the light of dharma and spiritual wisdom. One should approach God with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master God and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about creation?",
+    "answer": "The Bhagavad Gita teaches that creation should be understood in the light of dharma and spiritual wisdom. One should approach creation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master creation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about balance?",
+    "answer": "The Bhagavad Gita teaches that balance should be understood in the light of dharma and spiritual wisdom. One should approach balance with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master balance and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about peace?",
+    "answer": "The Bhagavad Gita teaches that peace should be understood in the light of dharma and spiritual wisdom. One should approach peace with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master peace and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about conflict?",
+    "answer": "The Bhagavad Gita teaches that conflict should be understood in the light of dharma and spiritual wisdom. One should approach conflict with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master conflict and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about duty?",
+    "answer": "The Bhagavad Gita teaches that duty should be understood in the light of dharma and spiritual wisdom. One should approach duty with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master duty and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about attachment?",
+    "answer": "The Bhagavad Gita teaches that attachment should be understood in the light of dharma and spiritual wisdom. One should approach attachment with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master attachment and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about ego?",
+    "answer": "The Bhagavad Gita teaches that ego should be understood in the light of dharma and spiritual wisdom. One should approach ego with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master ego and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about desire?",
+    "answer": "The Bhagavad Gita teaches that desire should be understood in the light of dharma and spiritual wisdom. One should approach desire with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master desire and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about soul?",
+    "answer": "The Bhagavad Gita teaches that soul should be understood in the light of dharma and spiritual wisdom. One should approach soul with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master soul and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about reincarnation?",
+    "answer": "The Bhagavad Gita teaches that reincarnation should be understood in the light of dharma and spiritual wisdom. One should approach reincarnation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master reincarnation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about liberation?",
+    "answer": "The Bhagavad Gita teaches that liberation should be understood in the light of dharma and spiritual wisdom. One should approach liberation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master liberation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about wisdom?",
+    "answer": "The Bhagavad Gita teaches that wisdom should be understood in the light of dharma and spiritual wisdom. One should approach wisdom with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master wisdom and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about devotion?",
+    "answer": "The Bhagavad Gita teaches that devotion should be understood in the light of dharma and spiritual wisdom. One should approach devotion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master devotion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about faith?",
+    "answer": "The Bhagavad Gita teaches that faith should be understood in the light of dharma and spiritual wisdom. One should approach faith with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master faith and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about truth?",
+    "answer": "The Bhagavad Gita teaches that truth should be understood in the light of dharma and spiritual wisdom. One should approach truth with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master truth and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about justice?",
+    "answer": "The Bhagavad Gita teaches that justice should be understood in the light of dharma and spiritual wisdom. One should approach justice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master justice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about compassion?",
+    "answer": "The Bhagavad Gita teaches that compassion should be understood in the light of dharma and spiritual wisdom. One should approach compassion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master compassion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about anger?",
+    "answer": "The Bhagavad Gita teaches that anger should be understood in the light of dharma and spiritual wisdom. One should approach anger with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master anger and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about greed?",
+    "answer": "The Bhagavad Gita teaches that greed should be understood in the light of dharma and spiritual wisdom. One should approach greed with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master greed and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about self-control?",
+    "answer": "The Bhagavad Gita teaches that self-control should be understood in the light of dharma and spiritual wisdom. One should approach self-control with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master self-control and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about discipline?",
+    "answer": "The Bhagavad Gita teaches that discipline should be understood in the light of dharma and spiritual wisdom. One should approach discipline with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master discipline and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about service?",
+    "answer": "The Bhagavad Gita teaches that service should be understood in the light of dharma and spiritual wisdom. One should approach service with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master service and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about leadership?",
+    "answer": "The Bhagavad Gita teaches that leadership should be understood in the light of dharma and spiritual wisdom. One should approach leadership with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master leadership and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about decision-making?",
+    "answer": "The Bhagavad Gita teaches that decision-making should be understood in the light of dharma and spiritual wisdom. One should approach decision-making with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master decision-making and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about relationships?",
+    "answer": "The Bhagavad Gita teaches that relationships should be understood in the light of dharma and spiritual wisdom. One should approach relationships with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master relationships and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about family?",
+    "answer": "The Bhagavad Gita teaches that family should be understood in the light of dharma and spiritual wisdom. One should approach family with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master family and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about society?",
+    "answer": "The Bhagavad Gita teaches that society should be understood in the light of dharma and spiritual wisdom. One should approach society with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master society and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about education?",
+    "answer": "The Bhagavad Gita teaches that education should be understood in the light of dharma and spiritual wisdom. One should approach education with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master education and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about work?",
+    "answer": "The Bhagavad Gita teaches that work should be understood in the light of dharma and spiritual wisdom. One should approach work with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master work and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about success?",
+    "answer": "The Bhagavad Gita teaches that success should be understood in the light of dharma and spiritual wisdom. One should approach success with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master success and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about failure?",
+    "answer": "The Bhagavad Gita teaches that failure should be understood in the light of dharma and spiritual wisdom. One should approach failure with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master failure and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about happiness?",
+    "answer": "The Bhagavad Gita teaches that happiness should be understood in the light of dharma and spiritual wisdom. One should approach happiness with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master happiness and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about sorrow?",
+    "answer": "The Bhagavad Gita teaches that sorrow should be understood in the light of dharma and spiritual wisdom. One should approach sorrow with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master sorrow and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about death?",
+    "answer": "The Bhagavad Gita teaches that death should be understood in the light of dharma and spiritual wisdom. One should approach death with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master death and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about life purpose?",
+    "answer": "The Bhagavad Gita teaches that life purpose should be understood in the light of dharma and spiritual wisdom. One should approach life purpose with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master life purpose and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about spiritual practice?",
+    "answer": "The Bhagavad Gita teaches that spiritual practice should be understood in the light of dharma and spiritual wisdom. One should approach spiritual practice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master spiritual practice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about yoga?",
+    "answer": "The Bhagavad Gita teaches that yoga should be understood in the light of dharma and spiritual wisdom. One should approach yoga with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master yoga and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about knowledge?",
+    "answer": "The Bhagavad Gita teaches that knowledge should be understood in the light of dharma and spiritual wisdom. One should approach knowledge with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master knowledge and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about action?",
+    "answer": "The Bhagavad Gita teaches that action should be understood in the light of dharma and spiritual wisdom. One should approach action with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master action and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about renunciation?",
+    "answer": "The Bhagavad Gita teaches that renunciation should be understood in the light of dharma and spiritual wisdom. One should approach renunciation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master renunciation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about mind?",
+    "answer": "The Bhagavad Gita teaches that mind should be understood in the light of dharma and spiritual wisdom. One should approach mind with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master mind and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about intellect?",
+    "answer": "The Bhagavad Gita teaches that intellect should be understood in the light of dharma and spiritual wisdom. One should approach intellect with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master intellect and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about nature?",
+    "answer": "The Bhagavad Gita teaches that nature should be understood in the light of dharma and spiritual wisdom. One should approach nature with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master nature and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about God?",
+    "answer": "The Bhagavad Gita teaches that God should be understood in the light of dharma and spiritual wisdom. One should approach God with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master God and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about creation?",
+    "answer": "The Bhagavad Gita teaches that creation should be understood in the light of dharma and spiritual wisdom. One should approach creation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master creation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about balance?",
+    "answer": "The Bhagavad Gita teaches that balance should be understood in the light of dharma and spiritual wisdom. One should approach balance with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master balance and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about peace?",
+    "answer": "The Bhagavad Gita teaches that peace should be understood in the light of dharma and spiritual wisdom. One should approach peace with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master peace and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about conflict?",
+    "answer": "The Bhagavad Gita teaches that conflict should be understood in the light of dharma and spiritual wisdom. One should approach conflict with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master conflict and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about duty?",
+    "answer": "The Bhagavad Gita teaches that duty should be understood in the light of dharma and spiritual wisdom. One should approach duty with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master duty and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about attachment?",
+    "answer": "The Bhagavad Gita teaches that attachment should be understood in the light of dharma and spiritual wisdom. One should approach attachment with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master attachment and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about ego?",
+    "answer": "The Bhagavad Gita teaches that ego should be understood in the light of dharma and spiritual wisdom. One should approach ego with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master ego and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about desire?",
+    "answer": "The Bhagavad Gita teaches that desire should be understood in the light of dharma and spiritual wisdom. One should approach desire with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master desire and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about soul?",
+    "answer": "The Bhagavad Gita teaches that soul should be understood in the light of dharma and spiritual wisdom. One should approach soul with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master soul and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about reincarnation?",
+    "answer": "The Bhagavad Gita teaches that reincarnation should be understood in the light of dharma and spiritual wisdom. One should approach reincarnation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master reincarnation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about liberation?",
+    "answer": "The Bhagavad Gita teaches that liberation should be understood in the light of dharma and spiritual wisdom. One should approach liberation with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master liberation and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about wisdom?",
+    "answer": "The Bhagavad Gita teaches that wisdom should be understood in the light of dharma and spiritual wisdom. One should approach wisdom with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master wisdom and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about devotion?",
+    "answer": "The Bhagavad Gita teaches that devotion should be understood in the light of dharma and spiritual wisdom. One should approach devotion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master devotion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about faith?",
+    "answer": "The Bhagavad Gita teaches that faith should be understood in the light of dharma and spiritual wisdom. One should approach faith with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master faith and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about truth?",
+    "answer": "The Bhagavad Gita teaches that truth should be understood in the light of dharma and spiritual wisdom. One should approach truth with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master truth and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about justice?",
+    "answer": "The Bhagavad Gita teaches that justice should be understood in the light of dharma and spiritual wisdom. One should approach justice with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master justice and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about compassion?",
+    "answer": "The Bhagavad Gita teaches that compassion should be understood in the light of dharma and spiritual wisdom. One should approach compassion with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master compassion and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about anger?",
+    "answer": "The Bhagavad Gita teaches that anger should be understood in the light of dharma and spiritual wisdom. One should approach anger with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master anger and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about greed?",
+    "answer": "The Bhagavad Gita teaches that greed should be understood in the light of dharma and spiritual wisdom. One should approach greed with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master greed and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about self-control?",
+    "answer": "The Bhagavad Gita teaches that self-control should be understood in the light of dharma and spiritual wisdom. One should approach self-control with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master self-control and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about discipline?",
+    "answer": "The Bhagavad Gita teaches that discipline should be understood in the light of dharma and spiritual wisdom. One should approach discipline with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master discipline and grow spiritually."
+  },
+  {
+    "question": "What does the Bhagavad Gita say about service?",
+    "answer": "The Bhagavad Gita teaches that service should be understood in the light of dharma and spiritual wisdom. One should approach service with detachment and awareness. By aligning actions with divine will and practicing self-control, one can master service and grow spiritually."
+  }
+]

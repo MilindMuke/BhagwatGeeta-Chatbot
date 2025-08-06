@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BhagwatGitaChatbot/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Comprehend": "4.0.0.16",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "BhagwatGitaChatbot.dll": {}
+        }
+      },
+      "AWSSDK.Comprehend/4.0.0.16": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.0.20"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.Comprehend.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.16"
+          }
+        }
+      },
+      "AWSSDK.Core/4.0.0.20": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.20"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BhagwatGitaChatbot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Comprehend/4.0.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jSBi9f2JuA3URrdpQXn0ULrkDO3+wAZTw1UFxenCp0ZWhARl1qrDrgCT94fMcOlW0X4nmknSfsNA71mOMHCs6w==",
+      "path": "awssdk.comprehend/4.0.0.16",
+      "hashPath": "awssdk.comprehend.4.0.0.16.nupkg.sha512"
+    },
+    "AWSSDK.Core/4.0.0.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aqL1FHNjOyS8nVPn+YeQlboynoYSHM5tcLlM2clu3WaiTTkldOk8vYgJ3sMdT8ZUEtCEMXx8Z9Hf5RQDZH0TQA==",
+      "path": "awssdk.core/4.0.0.20",
+      "hashPath": "awssdk.core.4.0.0.20.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    }
+  }
+}
